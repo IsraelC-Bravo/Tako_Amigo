@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Salsa-Regular
+font link: https://fonts.google.com/specimen/Salsa
+font author: John Vargas Beltrán
+font author site: https://www.behance.net/vargasbeltran
+
+
+icon designer: Geoffrey Joe
+icon designer link: /geoffrey.joe
+        
+{"bg":"transparent","icon-gradient-0":"#70243D","icon-gradient-1":"#C15767","font":"#000000","slogan":"#141414"}
+      
