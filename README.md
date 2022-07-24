@@ -10,11 +10,11 @@ Have your event catered with this local Jap-Mex Takoyaki.
 
 **Tech used:** HTML, CSS, JavaScript
 
-After getting all resources from client and agreeing to the design, I started with HTML for content and structure, CSS for rwd, beautiful color palettes & elegant layouts. After that, JS to add some functionality & interaction. 
+Original Logo, simple menu display for a local Takoyaki Shop. Used Css to manipulate color palette for client's request to match their logo. 
 
 
 ## Optimizations
 
-Will update new photos, change some colors in main.css and create a new "Meet Our Barbers" section in the menu.
+Client wants to update the site to display menu in another sections with new items and updated prices.
 
 
