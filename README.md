@@ -4,7 +4,7 @@ Have your event catered with this local Jap-Mex Takoyaki.
 
 **Link:** https://tako-amigo.netlify.app/
 
-![alt tag]()
+![alt tag](https://i.imgur.com/7CHMkI0.gif)
 
 ## How It's Made:
 
